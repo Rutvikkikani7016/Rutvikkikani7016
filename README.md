@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/rutvik-kikani-243844266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rutvik kikani" height="50" width="50" /></a>
+<a href="https://linkedin.com/rutvik-kikani-243844266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rutvik kikani" height="50" width="50" /></a>
 <a href="https://instagram.com/rutvikkikani_17" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="rutvikkikani_17" height="50" width="50" /></a>
 
 </p>
