@@ -52,7 +52,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="60" height="40"/>
-  </a>
+  </a><&nbsp>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png" alt="express" width="60" height="40"/>
   </a>
