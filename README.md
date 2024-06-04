@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rutvikkikani36@gmail.com**
 
-- 📄 Know about my experiences [https://azure-willamina-93.tiiny.site/](https://azure-willamina-93.tiiny.site/)
+- 📄 Know about my experiences [https://rutvikcv.tiiny.site](https://rutvikcv.tiiny.site)
 
 - ⚡ Fun fact **I am Funny**
 
