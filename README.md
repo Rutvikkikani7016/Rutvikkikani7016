@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **advanced backend architecture and system design**
 
-- 👨‍💻 All of my projects are available at [https://rkestate.onrender.com/](https://rkestate.onrender.com/)
+- 👨‍💻 All of my projects are available at [rutvikkikani.netlify.app/](https://rutvikkikani.netlify.app/)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, and the MERN stack**
 
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **rutvikkikani36@gmail.com**
 
-- 📄 Know about my experiences [https://rutvikcv.tiiny.site](https://rutvikcv.tiiny.site)
-
-- ⚡ Fun fact **I am Funny**
+- 📄 Know about my experiences [https://rutvikcv.tiiny.site](https://rutvikcv.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
